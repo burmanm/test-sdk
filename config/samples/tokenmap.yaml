@@ -1,0 +1,6 @@
+apiVersion: k8ssandra.io/v1alpha1
+kind: Tokenmap
+metadata:
+  name: tokenmap-sample
+spec:
+  url: https://gist.githubusercontent.com/burmanm/388320b79f5e4c1183bd5a98241243e5/raw/bfe4a44b2afe787c0241631de3c5857f7a0ecd6a/tokenmap.json
